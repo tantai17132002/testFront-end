@@ -1,0 +1,29 @@
+/* In Login.module.scss */
+.bodyWrapper {
+  background-color: #212121;
+  color: #fff;
+  font-family: monospace, serif;
+}
+.form {
+  width: 300px;
+  padding: 64px 15px 24px;
+  margin: 0 auto;
+}
+.control {
+  margin: 0 0 24px;
+}
+.control input {
+  width: 100%;
+  padding: 14px 16px;
+  color: #fff;
+}
+.btn {
+  padding: 14px 16px;
+  background: linear-gradient(
+    90deg,
+    rgb(2, 0, 36) 0%,
+    rgb(52, 9, 121) 37%,
+    rgb(0, 212, 255) 94%
+  );
+  font-weight: bold;
+}
